@@ -1,4 +1,4 @@
-![top banner](fuel-passion.jpg)
+![top banner](fuel.jpg)
 
 
 ### Hi there, I'm Tiema 👋
@@ -10,7 +10,9 @@
 - 💻 All of my projects are available at [tiema-portfolio](https://tiema-resume.web.app/)
 - 📫 How to reach me: ![Linkedin Badge](https://img.shields.io/badge/-Tiema-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/tiema-coulibaly-063b94195/)
 <br/>
+
 ### Languages and Tools:
+
 <br/>
 
 <p align="left">
@@ -44,8 +46,6 @@
    <a href="https://www.mysql.com/" target="_blank"> <img
          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
          alt="mysql" width="40" height="40" /> </a>
-   <a href="https://sequelize.org/master/" target="_blank"> <img
-         src="https://svgshare.com/i/V1i.svg" alt="sequelize" width="40" height="40" /> </a>
    <a href="https://www.mongodb.com/" target="_blank"> <img
          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
          alt="mongodb" width="40" height="40" /> </a>
