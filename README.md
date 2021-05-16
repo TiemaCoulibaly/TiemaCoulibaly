@@ -1,5 +1,7 @@
-![top banner](https://media-exp1.licdn.com/dms/image/C4E16AQEzGKRWBWtyRg/profile-displaybackgroundimage-shrink_200_800/0/1621153783031?e=1626912000&v=beta&t=IjigKIXGNNMmrsQi8E-Y0sgZerM8NQNzxc3BL8LxNoY)
+![top banner](https://images.unsplash.com/photo-1492232093388-4d9d123d362d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTMwfHxkZXZlbG9wZXIlMjBiYWNrZ3JvdW5kfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)
 
+<br />
+<br />
 ### Hi there, I'm Tiema 👋
 
 
@@ -11,8 +13,6 @@
 - 
 ### Languages and Tools:
 
-<br />
-<br />
 
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank">
