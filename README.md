@@ -1,4 +1,5 @@
-<img align="center" src="https://media-exp1.licdn.com/dms/image/C4E16AQEzGKRWBWtyRg/profile-displaybackgroundimage-shrink_200_800/0/1621153783031?e=1626912000&v=beta&t=IjigKIXGNNMmrsQi8E-Y0sgZerM8NQNzxc3BL8LxNoY"/>
+![top banner](https://media-exp1.licdn.com/dms/image/C4E16AQEzGKRWBWtyRg/profile-displaybackgroundimage-shrink_200_800/0/1621153783031?e=1626912000&v=beta&t=IjigKIXGNNMmrsQi8E-Y0sgZerM8NQNzxc3BL8LxNoY)
+
 ### Hi there, I'm Tiema 👋
 
 
