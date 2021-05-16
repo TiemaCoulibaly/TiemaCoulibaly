@@ -1,4 +1,4 @@
-![top banner](https://ibb.co/7gfX2ZS/Banner-Github-v02.jpg)
+![top banner](https://ibb.co/7gfX2ZS)
 
 
 ### Hi there, I'm Tiema 👋
