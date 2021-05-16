@@ -1,4 +1,5 @@
-![top banner](https://ibb.co/7gfX2ZS/fuel)
+<img align="center" src="https://i.ibb.co/7gfX2ZS/randalyn-hill-Z1-HXJQ2a-WIA-unsplash.jpg" alt="randalyn-hill-Z1-HXJQ2a-WIA-unsplash" border="0" />
+![top banner](https://ibb.co/7gfX2ZS)
 
 
 ### Hi there, I'm Tiema 👋
