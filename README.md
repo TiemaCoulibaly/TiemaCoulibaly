@@ -1,7 +1,6 @@
-![top banner](https://images.unsplash.com/photo-1492232093388-4d9d123d362d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTMwfHxkZXZlbG9wZXIlMjBiYWNrZ3JvdW5kfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)
 
-<br />
-<br />
+
+
 ### Hi there, I'm Tiema 👋
 
 
@@ -10,7 +9,7 @@
 - 🔭 I’m currently working on https://github.com/Mehdi-Adel/Crypto-project
 - 💻 All of my projects are available at [tiema-portfolio](https://tiema-resume.web.app/)
 - 📫 How to reach me: ![Linkedin Badge](https://img.shields.io/badge/-Tiema-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/tiema-coulibaly-063b94195/)
-- 
+
 ### Languages and Tools:
 
 
