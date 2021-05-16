@@ -1,17 +1,17 @@
-
+![top banner](https://i.ibb.co/hVPPCRW/Banner-Github-v02.jpg)
 
 
 ### Hi there, I'm Tiema 👋
+<br/>
 
 
 
-
-- 🔭 I’m currently working on https://github.com/Mehdi-Adel/Crypto-project
+- 🔭 I’m currently working on https://github.com/TiemaCoulibaly/Crypto-project
 - 💻 All of my projects are available at [tiema-portfolio](https://tiema-resume.web.app/)
 - 📫 How to reach me: ![Linkedin Badge](https://img.shields.io/badge/-Tiema-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/tiema-coulibaly-063b94195/)
-
+<br/>
 ### Languages and Tools:
-
+<br/>
 
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank">
