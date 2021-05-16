@@ -1,4 +1,4 @@
-<img align="center" src="https://images.unsplash.com/photo-1496715976403-7e36dc43f17b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"/>
+<img align="center" src="https://media-exp1.licdn.com/dms/image/C4E16AQEzGKRWBWtyRg/profile-displaybackgroundimage-shrink_200_800/0/1621153783031?e=1626912000&v=beta&t=IjigKIXGNNMmrsQi8E-Y0sgZerM8NQNzxc3BL8LxNoY"/>
 ### Hi there, I'm Tiema 👋
 
 
