@@ -1,5 +1,4 @@
-<img align="center" src="https://images.unsplash.com/photo-1543616991-75a2c125ff5b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" alt="randalyn-hill-Z1-HXJQ2a-WIA-unsplash" border="0" />
-![top banner](https://ibb.co/7gfX2ZS)
+![top banner](https://i.ibb.co/hVPPCRW/Banner-Github-v02.jpg)
 
 
 ### Hi there, I'm Tiema 👋
