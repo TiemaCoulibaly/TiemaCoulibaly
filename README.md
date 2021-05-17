@@ -12,6 +12,8 @@
 
 
 <br/>
+## MY GIT STATS
+
 [![Tiema's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TiemaCoulibaly&theme=blue-green)](https://github.com/TiemaCoulibaly/github-readme-stats)
 
 
