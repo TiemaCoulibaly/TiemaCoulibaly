@@ -8,9 +8,8 @@
 
 - 🔭 I’m currently working on https://github.com/TiemaCoulibaly/Crypto-project
 - 💻 All of my projects are available at [tiema-portfolio](https://tiema-resume.web.app/)
-- 📫 How to reach me: [Linkedin Tiema](https://www.linkedin.com/in/tiema-coulibaly-063b94195/)
-- [![Linkedin Badge](https://img.shields.io/badge/-Tiema-blue?style=plastic-square&logo=Linkedin&logoColor=white&link)](https://www.linkedin.com/in/tiema-coulibaly-063b94195/)
-- [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/TiemaCoulibaly/badges/master)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Tiema-blue?style=plastic-square&logo=Linkedin&logoColor=white&link)](https://www.linkedin.com/in/tiema-coulibaly-063b94195/)
+
 
 <br/>
 
@@ -20,7 +19,9 @@
 
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank">
-  <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+  <img 
+       alt="Visual Studio Code" width="40" height="40"
+       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   </a>
    <a href="https://www.w3.org/html/" target="_blank"> <img
          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
