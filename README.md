@@ -1,4 +1,4 @@
-![top banner](this.jpg)
+![top banner](light.jpg)
 
 
 ### Hi there, I'm Tiema 👋
