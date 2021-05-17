@@ -8,7 +8,8 @@
 
 - 🔭 I’m currently working on https://github.com/TiemaCoulibaly/Crypto-project
 - 💻 All of my projects are available at [tiema-portfolio](https://tiema-resume.web.app/)
-- 📫 How to reach me: ![Linkedin Badge](https://www.linkedin.com/in/tiema-coulibaly-063b94195/)
+- 📫 How to reach me: [Linkedin Badge](https://www.linkedin.com/in/tiema-coulibaly-063b94195/)
+- [Linkedin Badge](https://img.shields.io/badge/-Tiema-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/tiema-coulibaly-063b94195/)
 <br/>
 
 ### Languages and Tools:
