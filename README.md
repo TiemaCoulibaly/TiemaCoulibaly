@@ -11,8 +11,11 @@
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Tiema-blue?style=plastic-square&logo=Linkedin&logoColor=white&link)](https://www.linkedin.com/in/tiema-coulibaly-063b94195/)
 
 
-<br/>
+
+
 ## MY GIT STATS
+
+<br/>
 
 [![Tiema's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TiemaCoulibaly&theme=blue-green)](https://github.com/TiemaCoulibaly/github-readme-stats)
 
