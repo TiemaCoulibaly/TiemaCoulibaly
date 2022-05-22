@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [https://github.com/TiemaCoulibaly/ocity-stade](https://github.com/TiemaCoulibaly/ocity-firebase)
 - 💻 All of my projects are available at [tiema-portfolio](https://tiema-resume.web.app/)
-- 📫 How to reach me: ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/tiema-coulibaly-063b94195/)
+- 📫 How to reach me: ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiema-coulibaly-063b94195/)
 
 
 
